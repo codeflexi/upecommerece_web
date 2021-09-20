@@ -32,10 +32,6 @@
 /*------------------------------------------------------------------
     SKELETON
 -------------------------------------------------------------------*/
-
-html {
-    font-family: 'Montserrat', sans-serif;
-  }
  body {
      color: #666666;
      font-size: 15px;
@@ -360,8 +356,7 @@ html {
          top: -2px;
     }
      nav.navbar .navbar-brand img.logo{
-    
-         height: 60px;
+         width: 40px;
     }
      .attr-nav > ul > li > a{
          padding: 16px 15px 15px;
@@ -1341,7 +1336,7 @@ html {
 }
 /*------------------------------------------------------------------ All Pages -------------------------------------------------------------------*/
  .all-title-box{
-     background: url("../images/all-bg-title.jpg") no-repeat center center;
+     background: url("../images/up-storage11.jpg") no-repeat center center;
      -webkit-background-size: cover;
      -moz-background-size: cover;
      -ms-background-size: cover;
